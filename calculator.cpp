@@ -15,5 +15,11 @@ int main()
 		hasil = bil1 + bil2;
 		cout<<"Hasil Penjumlahannya Adalah "<<hasil;
 	}
+	
+	else if(operator = '-')
+	{
+		hasil = bil2 - bil1;
+		cout<<"Hasil Pengurangannya Adalah "<<hasil;
+	}
 	return 0;
 }
