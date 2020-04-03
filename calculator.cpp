@@ -21,5 +21,11 @@ int main()
 		hasil = bil2 - bil1;
 		cout<<"Hasil Pengurangannya Adalah "<<hasil;
 	}
+
+	else if(operator = '*')
+	{
+		hasil = bil2 * bil1;
+		cout<<"Hasil Perkaliannya Adalah "<<hasil;
+	}
 	return 0;
 }
