@@ -27,5 +27,10 @@ int main()
 		hasil = bil2 * bil1;
 		cout<<"Hasil Perkaliannya Adalah "<<hasil;
 	}
+	else if(operator = '/')
+	{
+		hasil = bil2 / bil1;
+		cout<<"Hasil Pembagiannya Adalah "<<hasil;
+	}
 	return 0;
 }
